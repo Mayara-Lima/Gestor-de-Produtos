@@ -10,9 +10,13 @@ Nela é possível gerir facilmente os produtos de uma empresa, permitindo que o 
 Para seu desenvolvimento usei o seguinte stack tecnológico:
 
 ● Python 3 como linguagem de programação base.
+
 ● IDE Pycharm Community.
+
 ● Módulo integrado em Python Tkinter.
-● Base de dados SQLite
+
+● Base de dados SQLite.
+
 ● Ambiente virtual de Python Virtualenv.
 
 Por fim, temos o resultado:
